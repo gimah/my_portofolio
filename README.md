@@ -1,2 +1,7 @@
 # my_portofolio
-Data Scientist
+# Data Scientist
+## Education
+
+## work experience
+
+### Projects
